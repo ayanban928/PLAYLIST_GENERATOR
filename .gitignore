@@ -1,0 +1,17 @@
+# .env file 
+.env
+
+# Python cache files
+__pycache__/
+
+# Virtual environment
+venv/
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+
+# Spotify cache
+.cache-*
